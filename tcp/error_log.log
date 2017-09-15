@@ -1,0 +1,238 @@
+2017-08-30 10:21:45,820 ERROR timed out
+2017-08-30 10:23:50,190 ERROR timed out
+2017-08-30 10:34:01,359 ERROR timed out
+2017-08-30 10:34:19,502 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:34:21,415 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:34:24,408 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:34:56,481 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:35:18,034 ERROR timed out
+2017-08-30 10:37:20,404 ERROR timed out
+2017-08-30 10:37:31,572 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:38:32,589 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:38:32,590 ERROR 15041039125766843801504103912573373049 126828
+2017-08-30 10:39:36,438 ERROR timed out
+2017-08-30 10:40:47,909 ERROR timed out
+2017-08-30 10:41:11,107 ERROR timed out
+2017-08-30 10:41:20,605 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:41:20,606 ERROR 15041040805863933061504104080585366131 904356
+2017-08-30 10:41:41,358 ERROR timed out
+2017-08-30 10:42:08,809 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 10:42:08,809 INFO 15041041287920876761504104128792048633 568638
+2017-08-30 11:41:20,297 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 11:41:20,298 INFO 15041076798391631221504107679829442368 544417
+2017-08-30 11:41:21,761 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 11:41:21,761 INFO 15041076812948590681504107681292014448 753423
+2017-08-30 11:41:25,257 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 11:41:25,257 INFO 15041076847947364781504107684793307950 13568566542
+2017-08-30 11:41:46,997 ERROR timed out
+2017-08-30 11:42:01,995 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 11:42:01,996 INFO 15041077215301684481504107721536251520 80365551983
+2017-08-30 11:42:26,579 ERROR timed out
+2017-08-30 12:00:19,533 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:00:19,533 INFO 15041088190723832701504108819073219412 421525350360
+2017-08-30 12:00:33,866 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:00:33,866 INFO 15041088334045694121504108833401309908 81750
+2017-08-30 12:00:36,820 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:00:36,820 INFO 15041088363622834911504108836363040203 534983
+2017-08-30 12:00:37,556 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:00:37,556 INFO 15041088371060764941504108837105597261 137128315250
+2017-08-30 12:02:45,194 INFO recv timed out, retry later
+2017-08-30 12:03:06,197 INFO recv timed out, retry later
+2017-08-30 12:04:06,622 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:04:06,623 INFO 15041090461593766781504109046167981537 108066
+2017-08-30 12:04:07,053 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 12:04:07,053 INFO 15041090465999225151504109046601114366 167707
+2017-08-30 12:04:11,630 INFO recv timed out, retrying later
+2017-08-30 12:04:15,636 INFO recv timed out, retrying later
+2017-08-30 12:04:19,637 INFO recv timed out, retrying later
+2017-08-30 12:04:23,645 INFO recv timed out, retrying later
+2017-08-30 12:04:27,656 INFO recv timed out, retrying later
+2017-08-30 12:04:31,663 INFO recv timed out, retrying later
+2017-08-30 12:04:35,673 INFO recv timed out, retrying later
+2017-08-30 12:04:39,682 INFO recv timed out, retrying later
+2017-08-30 12:04:43,686 INFO recv timed out, retrying later
+2017-08-30 12:04:47,692 INFO recv timed out, retrying later
+2017-08-30 12:04:51,700 INFO recv timed out, retrying later
+2017-08-30 12:04:55,704 INFO recv timed out, retrying later
+2017-08-30 12:04:59,707 INFO recv timed out, retrying later
+2017-08-30 12:05:03,711 INFO recv timed out, retrying later
+2017-08-30 12:05:07,717 INFO recv timed out, retrying later
+2017-08-30 12:53:03,949 INFO socket timed out, retrying
+2017-08-30 12:53:07,955 INFO socket timed out, retrying
+2017-08-30 12:53:11,966 INFO socket timed out, retrying
+2017-08-30 12:53:15,975 INFO socket timed out, retrying
+2017-08-30 12:53:19,978 INFO socket timed out, retrying
+2017-08-30 12:53:23,986 INFO socket timed out, retrying
+2017-08-30 12:53:27,994 INFO socket timed out, retrying
+2017-08-30 12:53:32,002 INFO socket timed out, retrying
+2017-08-30 12:53:36,013 INFO socket timed out, retrying
+2017-08-30 12:53:40,019 INFO socket timed out, retrying
+2017-08-30 12:53:44,030 INFO socket timed out, retrying
+2017-08-30 12:53:48,039 INFO socket timed out, retrying
+2017-08-30 12:53:52,047 INFO socket timed out, retrying
+2017-08-30 12:53:56,048 INFO socket timed out, retrying
+2017-08-30 12:54:00,058 INFO socket timed out, retrying
+2017-08-30 13:03:30,476 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:03:30,476 INFO 15041126107332615631504112610736123111 65576774452
+2017-08-30 13:03:31,536 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:03:31,536 INFO 15041126118011232061504112611795256745 835694
+2017-08-30 13:03:32,187 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:03:32,187 INFO 15041126124539728691504112612455405885 453728
+2017-08-30 13:03:37,061 INFO socket timed out, retrying
+2017-08-30 13:03:41,066 INFO socket timed out, retrying
+2017-08-30 13:03:45,071 INFO socket timed out, retrying
+2017-08-30 13:03:49,078 INFO socket timed out, retrying
+2017-08-30 13:03:53,081 INFO socket timed out, retrying
+2017-08-30 13:03:57,084 INFO socket timed out, retrying
+2017-08-30 13:04:01,087 INFO socket timed out, retrying
+2017-08-30 13:04:05,090 INFO socket timed out, retrying
+2017-08-30 13:04:09,096 INFO socket timed out, retrying
+2017-08-30 13:04:13,102 INFO socket timed out, retrying
+2017-08-30 13:04:17,103 INFO socket timed out, retrying
+2017-08-30 13:04:21,105 INFO socket timed out, retrying
+2017-08-30 13:04:25,107 INFO socket timed out, retrying
+2017-08-30 13:04:29,112 INFO socket timed out, retrying
+2017-08-30 13:04:33,115 INFO socket timed out, retrying
+2017-08-30 13:04:56,334 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:04:56,334 INFO 15041126965917117761504112696596724032 906320
+2017-08-30 13:05:12,541 INFO socket timed out, retrying
+2017-08-30 13:05:16,547 INFO socket timed out, retrying
+2017-08-30 13:05:20,552 INFO socket timed out, retrying
+2017-08-30 13:05:24,554 INFO socket timed out, retrying
+2017-08-30 13:05:28,557 INFO socket timed out, retrying
+2017-08-30 13:05:32,563 INFO socket timed out, retrying
+2017-08-30 13:05:36,568 INFO socket timed out, retrying
+2017-08-30 13:05:40,575 INFO socket timed out, retrying
+2017-08-30 13:05:44,583 INFO socket timed out, retrying
+2017-08-30 13:05:48,585 INFO socket timed out, retrying
+2017-08-30 13:05:52,590 INFO socket timed out, retrying
+2017-08-30 13:05:56,598 INFO socket timed out, retrying
+2017-08-30 13:06:00,609 INFO socket timed out, retrying
+2017-08-30 13:06:04,615 INFO socket timed out, retrying
+2017-08-30 13:06:08,621 INFO socket timed out, retrying
+2017-08-30 13:06:19,576 INFO socket timed out, retrying
+2017-08-30 13:06:23,583 INFO socket timed out, retrying
+2017-08-30 13:06:27,591 INFO socket timed out, retrying
+2017-08-30 13:06:31,597 INFO socket timed out, retrying
+2017-08-30 13:06:35,608 INFO socket timed out, retrying
+2017-08-30 13:06:39,616 INFO socket timed out, retrying
+2017-08-30 13:06:43,627 INFO socket timed out, retrying
+2017-08-30 13:06:47,634 INFO socket timed out, retrying
+2017-08-30 13:06:51,641 INFO socket timed out, retrying
+2017-08-30 13:06:55,649 INFO socket timed out, retrying
+2017-08-30 13:06:59,659 INFO socket timed out, retrying
+2017-08-30 13:07:03,666 INFO socket timed out, retrying
+2017-08-30 13:07:07,667 INFO socket timed out, retrying
+2017-08-30 13:07:11,677 INFO socket timed out, retrying
+2017-08-30 13:07:15,688 INFO socket timed out, retrying
+2017-08-30 13:07:19,635 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:07:19,635 INFO 15041128399000233751504112839903411014 572722562001
+2017-08-30 13:07:22,766 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:07:22,766 INFO 15041128430247396181504112843028645426 96228
+2017-08-30 13:07:30,472 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:07:30,472 INFO 15041128507369663771504112850733789729 590643
+2017-08-30 13:07:34,802 INFO socket timed out, retrying
+2017-08-30 13:07:38,812 INFO socket timed out, retrying
+2017-08-30 13:07:42,822 INFO socket timed out, retrying
+2017-08-30 13:07:46,833 INFO socket timed out, retrying
+2017-08-30 13:07:50,840 INFO socket timed out, retrying
+2017-08-30 13:07:54,845 INFO socket timed out, retrying
+2017-08-30 13:07:58,856 INFO socket timed out, retrying
+2017-08-30 13:08:02,866 INFO socket timed out, retrying
+2017-08-30 13:08:06,876 INFO socket timed out, retrying
+2017-08-30 13:08:10,883 INFO socket timed out, retrying
+2017-08-30 13:08:14,889 INFO socket timed out, retrying
+2017-08-30 13:08:18,890 INFO socket timed out, retrying
+2017-08-30 13:08:22,894 INFO socket timed out, retrying
+2017-08-30 13:08:26,896 INFO socket timed out, retrying
+2017-08-30 13:08:30,898 INFO socket timed out, retrying
+2017-08-30 13:08:31,155 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:08:31,155 INFO 15041129114170722901504112911413099449 969868
+2017-08-30 13:08:39,879 INFO socket timed out, retrying
+2017-08-30 13:08:43,882 INFO socket timed out, retrying
+2017-08-30 13:08:47,885 INFO socket timed out, retrying
+2017-08-30 13:08:51,888 INFO socket timed out, retrying
+2017-08-30 13:08:55,891 INFO socket timed out, retrying
+2017-08-30 13:08:59,894 INFO socket timed out, retrying
+2017-08-30 13:09:03,897 INFO socket timed out, retrying
+2017-08-30 13:09:07,900 INFO socket timed out, retrying
+2017-08-30 13:09:11,903 INFO socket timed out, retrying
+2017-08-30 13:09:15,909 INFO socket timed out, retrying
+2017-08-30 13:09:19,914 INFO socket timed out, retrying
+2017-08-30 13:09:23,924 INFO socket timed out, retrying
+2017-08-30 13:09:27,931 INFO socket timed out, retrying
+2017-08-30 13:09:31,933 INFO socket timed out, retrying
+2017-08-30 13:09:35,936 INFO socket timed out, retrying
+2017-08-30 13:09:38,629 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:09:38,630 INFO 15041129788896166381504112978891927871 682918
+2017-08-30 13:09:57,772 INFO socket timed out, retrying
+2017-08-30 13:10:01,774 INFO socket timed out, retrying
+2017-08-30 13:10:05,777 INFO socket timed out, retrying
+2017-08-30 13:10:09,786 INFO socket timed out, retrying
+2017-08-30 13:10:13,788 INFO socket timed out, retrying
+2017-08-30 13:10:17,797 INFO socket timed out, retrying
+2017-08-30 13:10:21,804 INFO socket timed out, retrying
+2017-08-30 13:10:25,807 INFO socket timed out, retrying
+2017-08-30 13:10:29,810 INFO socket timed out, retrying
+2017-08-30 13:10:33,813 INFO socket timed out, retrying
+2017-08-30 13:10:37,817 INFO socket timed out, retrying
+2017-08-30 13:10:41,820 INFO socket timed out, retrying
+2017-08-30 13:10:45,823 INFO socket timed out, retrying
+2017-08-30 13:10:49,826 INFO socket timed out, retrying
+2017-08-30 13:10:53,829 INFO socket timed out, retrying
+2017-08-30 13:10:58,027 INFO socket timed out, retrying
+2017-08-30 13:11:02,034 INFO socket timed out, retrying
+2017-08-30 13:11:06,035 INFO socket timed out, retrying
+2017-08-30 13:11:10,041 INFO socket timed out, retrying
+2017-08-30 13:11:14,052 INFO socket timed out, retrying
+2017-08-30 13:11:18,055 INFO socket timed out, retrying
+2017-08-30 13:11:22,058 INFO socket timed out, retrying
+2017-08-30 13:11:26,061 INFO socket timed out, retrying
+2017-08-30 13:11:30,065 INFO socket timed out, retrying
+2017-08-30 13:11:34,068 INFO socket timed out, retrying
+2017-08-30 13:11:38,071 INFO socket timed out, retrying
+2017-08-30 13:11:42,076 INFO socket timed out, retrying
+2017-08-30 13:11:46,079 INFO socket timed out, retrying
+2017-08-30 13:11:50,083 INFO socket timed out, retrying
+2017-08-30 13:11:54,086 INFO socket timed out, retrying
+2017-08-30 13:12:03,757 INFO socket timed out, retrying
+2017-08-30 13:12:07,764 INFO socket timed out, retrying
+2017-08-30 13:12:11,773 INFO socket timed out, retrying
+2017-08-30 13:12:15,776 INFO socket timed out, retrying
+2017-08-30 13:12:29,510 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:12:29,510 INFO 15041131497752864431504113149784236168 119498
+2017-08-30 13:12:35,702 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:12:35,703 INFO 15041131559607199781504113155961924923 180213
+2017-08-30 13:12:43,369 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:12:43,369 INFO 15041131636378987501504113163633207020 676922
+2017-08-30 13:12:48,531 INFO socket timed out, retrying
+2017-08-30 13:12:52,051 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:12:52,051 INFO 15041131723135780761504113172319675042 537229
+2017-08-30 13:12:57,750 INFO socket timed out, retrying
+2017-08-30 13:12:59,549 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:12:59,550 INFO 15041131798227429191504113179817036471 696366
+2017-08-30 13:13:09,202 INFO socket timed out, retrying
+2017-08-30 13:13:09,527 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:09,527 INFO 15041131897910832341504113189792213165 95420
+2017-08-30 13:13:15,831 INFO socket timed out, retrying
+2017-08-30 13:13:28,659 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:28,659 INFO 15041132089211346091504113208925512072 202666613864
+2017-08-30 13:13:30,451 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:30,451 INFO 15041132107085702671504113210708622349 65172099840
+2017-08-30 13:13:33,985 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:33,985 INFO 15041132142524513881504113214257777488 410685
+2017-08-30 13:13:36,497 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:36,497 INFO 15041132167652127041504113216767090175 427277
+2017-08-30 13:13:41,893 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:13:41,894 INFO 15041132221563201051504113222158156305 337920
+2017-08-30 13:13:44,239 INFO socket timed out, retrying
+2017-08-30 13:46:45,787 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:46:45,787 INFO 15041152057774747751504115205780307460 576084
+2017-08-30 13:46:46,263 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:46:46,264 INFO 15041152062520898371504115206255253344 67412627715
+2017-08-30 13:46:48,966 INFO socket timed out, retrying
+2017-08-30 13:46:55,593 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:46:55,593 INFO 15041152155844247421504115215584758824 774644
+2017-08-30 13:46:56,847 ERROR Python int too large to convert to SQLite INTEGER
+2017-08-30 13:46:56,847 INFO 15041152168401388621504115216833286324 421740
+2017-08-30 13:47:19,980 INFO socket timed out, retrying
